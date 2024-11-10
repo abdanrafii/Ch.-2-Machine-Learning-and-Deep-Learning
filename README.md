@@ -1,6 +1,6 @@
 ---
 
-# Ch.-2-Machine-Learning-and-Deep-Learning
+# Ch.2: Machine Learning and Deep Learning
 
 This repository includes a set of machine learning and deep learning assignments aimed at building practical skills in classification, clustering, regression, and fraud detection using different algorithms and frameworks.
 
